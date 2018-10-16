@@ -1,0 +1,12 @@
+{
+	"trainers" : [
+		{
+			"firstname" : "quentin",
+			"age" : 22
+		},
+		{
+			"firstname" : "chloe",
+			"age" : 18
+		}
+	]
+}

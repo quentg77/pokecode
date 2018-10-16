@@ -1,0 +1,68 @@
+{
+	"trainers": [
+		{
+			"id": 1,
+			"firstname": "quentin",
+			"age": 22,
+			"pokemons": [
+				{
+					"ndex": "001",
+					"level": 37
+				},
+				{
+					"ndex": "094",
+					"level": 3
+				},
+				{
+					"ndex": "102",
+					"level": 8
+				},
+				{
+					"ndex": "144",
+					"level": 3
+				},
+				{
+					"ndex": "138",
+					"level": 3
+				},
+				{
+					"ndex": "055",
+					"level": 9
+				}
+			],
+			"startDate": "2018-10-7"
+		},
+		{
+			"id": 2,
+			"firstname": "chloe",
+			"age": 18,
+			"pokemons": [
+				{
+					"ndex": "004",
+					"level": 5
+				},
+				{
+					"ndex": "046",
+					"level": 9
+				},
+				{
+					"ndex": "088",
+					"level": 9
+				},
+				{
+					"ndex": "111",
+					"level": 3
+				},
+				{
+					"ndex": "127",
+					"level": 8
+				},
+				{
+					"ndex": "085",
+					"level": 3
+				}
+			],
+			"startDate": "2018-10-7"
+		}
+	]
+}
